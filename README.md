@@ -1,5 +1,5 @@
 - 👋 Hey, soy Alberto
-- 👀 Soy fundador de PowerAC, ReventaosRP, y JD-Network
+- 👀 Soy fundador de PowerAC, ReventaosRP, y NOTE-Network
 - 🌱 Learning CyberSecurity
 - 💻 Programador.
 
