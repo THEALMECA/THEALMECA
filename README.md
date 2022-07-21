@@ -1,5 +1,5 @@
 - 👋 Hey, soy Alberto
-- 👀 Soy fundador de PowerAC, ReventaosRP, y NOTE-Network
+- 👀 Soy fundador de NOTE-Network
 - 🌱 Learning CyberSecurity
 - 💻 Programador.
 
